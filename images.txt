@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 # self
 tabbyml/tabby
+taprosoft/kotaemon:v1.0
