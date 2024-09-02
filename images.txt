@@ -9,3 +9,4 @@ xhofe/alist:latest
 tabbyml/tabby
 taprosoft/kotaemon:v1.0
 neo4j:5.23.0-enterprise
+neo4j:4.4-enterprise
